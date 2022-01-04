@@ -1,0 +1,1 @@
+enum BaseModelStatus { Ok, Error, Action, UnprocessableEntity, TimeOut }
